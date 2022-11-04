@@ -3,6 +3,7 @@
 {"key":"csp_Nbys","name":"泥視頻","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_唐人街","name":"唐人街 (選[haiwaikan]或[藍光二]看)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/Thk2//MaooXX/Renjie.json"},
 {"key":"csp_xpath_唐人街","name":"T唐人街 (選[haiwaikan]或[藍光二]看)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/Thk2//MaooXX/tangrenjie.json"},
+{"key":"csp_trj","name": "TT唐人街 (選[haiwaikan]或[藍光二]看)","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Xiaoh","name":"小寶 (不能搜索)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_独播库","name":"獨播庫 (播放器改成[系统播放器])","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://boyss180.github.io/Thk2//MaooXX/duboku3.json"},

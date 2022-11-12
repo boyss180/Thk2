@@ -2,7 +2,7 @@
   "sites": [
 {"key":"Xiaoh","name":"小 寶","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 {"key":"Cokemv","name":"Coke 👉選 [海外禁國內] 看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
-{"key":"Zjdr","name":"追劇達人 👉選 [海外華人專用] 看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
+{"key":"Zjdr","name":"追劇 👉選 [海外華人專用] 看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
 {"key":"csp_If101","name":"If101 (縮圖不全)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"nbys","name":"泥巴影院(JD)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"泥巴影院 (篩選不全)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},

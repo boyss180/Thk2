@@ -9,7 +9,7 @@
 {"key":"csp_XPath3_88","name":"88看球 ⚽ 🏀","type":3,"api":"XPath3","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/hk2/ext/88看球.json"},
 {"key": "dr_JRKAN直播","name": "DJ看球(drpy) ⚽ 🏀","type": 3,"api": "https://boyss180.github.io/hk2/ext/drpy.min.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://boyss180.github.io/hk2/ext/JRKAN直播.js"},
 {"key":"csp_Bili热舞","name":"💃女團熱舞 (低清)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/女团.txt"},
-{"key":"csp_Bili歌曲","name":"📺歌曲MV (低清)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1, "ext":"https://boyss180.github.io/hk2/ext/歌曲.txt"},
+{"key":"csp_Bili歌曲","name":"📺歌曲MV (低清)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/歌曲.txt"},
 {"key":"csp_Bili演唱会","name":"🎸演唱會 (低清)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/演唱会.txt"},
 {"key":"csp_Bili合集","name":" 🅱嗶哩嗶哩 (低清)","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://boyss180.github.io/hk2/ext/B站.txt"}
   ],

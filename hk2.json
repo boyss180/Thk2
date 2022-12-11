@@ -11,10 +11,10 @@
 
 //{"key":"Zjdr","name":"追劇 👉選 [海外華人...] 看","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
 //{"key":"csp_If101","name":"If101 (縮圖不全)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "dr_唐人街影视","name": "唐人街 (drpy)","type":3,"api":"https://boyss180.github.io/hk2/ext/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/hk2/ext/唐人街影视2.js"},
 //{"key": "dr_欧乐影院","name": "歐樂 (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/欧乐影院.js"},
 //{"key": "dr_小宝影院","name": "小寶 (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院.js"},
 //{"key": "dr_吼吼","name": "吼吼 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/吼吼.js"},
-{"key": "dr_唐人街影视","name": "唐人街 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/唐人街影视2.js"},
 //{"key": "dr_冲TMTV","name": "TMTV (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/冲TMTV.js"},
 //{"key": "dr_KUBO影视","name": "KUBO (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/KUBO影视.js"},
 //{"key": "dr_if101","name": "If101 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/if101.js"},

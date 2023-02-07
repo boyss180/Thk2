@@ -14,7 +14,7 @@
 {"key": "dr_欧乐影院","name": "歐樂影院 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/欧乐影院2.js"},
 {"key": "dr_唐人街影视","name": "唐人街 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/唐人街影视2.js"},
 {"key": "dr_海外看","name": "海外看 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/海外看影院2.js"},
-{"key": "dr_冲TMTV","name": "TMTV (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/冲TMTV2.js"},
+//{"key": "dr_冲TMTV","name": "TMTV (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/冲TMTV2.js"},
 
 //{"key":"Zjdr","name":"追劇 👉選 [海外華人...] 看","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
 //{"key":"csp_If101","name":"If101 (縮圖不全)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},

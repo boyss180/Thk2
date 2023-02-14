@@ -14,7 +14,7 @@
 {"key": "dr_欧乐影院","name": "歐樂影院 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/欧乐影院2.js"},
 {"key": "dr_唐人街影视","name": "唐人街 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/唐人街影视2.js"},
 {"key": "dr_海外看","name": "海外看 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/海外看影院2.js"},
-{"key": "dr_if101","name": "if101-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/if101_new.js"},
+{"key": "dr_if101_new","name": "if101-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/if101_new.js"},
 {"key": "dr_HoHo_new","name": "HoHo-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/HoHo_new.js"},
 {"key": "dr_独播库_new","name": "獨播庫-new (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/独播库_new.js"},
 //{"key": "dr_冲TMTV","name": "TMTV (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/冲TMTV2.js"},

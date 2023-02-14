@@ -9,6 +9,7 @@
 {"key":"nbys","name":"泥巴影院","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "dr_小宝影院","name": "小寶 (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院2.js"},
+{"key": "dr_小宝影院ed","name": "小寶ed-new (drpy)","type": 3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/小宝影院ed_new.js"},
 {"key": "dr_cokemv","name": "Coke (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/cokemv2.js"},
 {"key": "dr_吼吼","name": "HoHo (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/吼吼2.js"},
 {"key": "dr_欧乐影院","name": "歐樂影院 (drpy)","type":3,"api":"https://boyss180.github.io/drpy/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://boyss180.github.io/drpy/js/欧乐影院2.js"},

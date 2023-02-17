@@ -36,7 +36,7 @@
 //{"key":"csp_Bili歌曲","name":"📺歌曲MV (低清)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/hk2/ext/歌曲.txt"},
 //{"key":"csp_Bili演唱会","name":"🎸演唱會 (低清)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/hk2/ext/演唱会.txt"},
 //{"key":"csp_Bili合集","name":"🅱嗶哩嗶哩 (低清)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://boyss180.github.io/hk2/ext/B站.txt"},
-{"key":"Bili","name":"🅱嗶哩 (高清測試)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"}
+{"key":"Bili","name":"🅱嗶哩 (高清測試)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"}
   ],
 //解X设置
   "lives": [{"group":"redirect","channels":[{"name": "redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
